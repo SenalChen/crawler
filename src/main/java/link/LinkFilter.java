@@ -1,0 +1,1 @@
+package link;/** * Created by senal * 2018/7/22 * Discription: */public interface LinkFilter {    public boolean accept(String url);}
